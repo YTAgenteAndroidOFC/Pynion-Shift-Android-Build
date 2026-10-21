@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/arcanite24/pinyon-shift/raw/main/.github/pinyon-shift-banner.png" alt="Pinyon Shift" width="100%">
-</p><h1 align="center"# Pynion-Shift-Android-Build/h1><p align="center">
+</p><h1 align="center">Pinyon Shift — Android Build</h1><p align="center">
   Precompiled Android build of Forza Horizon using static recompilation.
 </p><p align="center">
   <img src="https://img.shields.io/badge/Version-0.6.0-7C3AED?style=flat-square" alt="Version 0.6.0">
